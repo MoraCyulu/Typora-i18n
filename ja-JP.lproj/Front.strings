@@ -174,3 +174,29 @@ Japanese translated by
 
 "Learn Data Recovery" = "データの復元についてもっと詳しく";
 "Auto refresh on Files Panel cannot be enabled." = "ファイルパネルの自動更新は有効にできません。";
+"Delete Permanently" = "永久的に削除";
+
+
+"Failed to upload images:" = "画像のアップロードに失敗:";
+"Uploading in progress" = "アップロード中";
+"Successfully uploaded {0} images, {1} failed." = "画像のアップロードが {0} 件成功, {1}件失敗しました。";
+
+"You could undo this operation later via `Edit` → `Undo`." = "`編集` → `元に戻す` から後でこの操作を元に戻すことができます。";
+
+"You can press <strong>⌘ + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<strong>⌘ + 左クリック</strong> を押すことで、 <a href='#'>リンク</a> または 脚注の定義にジャンプします。";
+"You can press <strong>CTRL + Click</strong> to open <a href='#'>links</a> or jump to footnote definition." = "<strong>CTRL + 左クリック</strong> を押すことで、 <a href='#'>リンク</a> または 脚注の定義にジャンプします。";
+
+"<strong>Unibody</strong> style has been turned on." = "<strong>Unibody</strong> スタイルが有効になっています.";
+"You can right click titlebar to popup application menu." = "titlebarを右クリックすることで、アプリケーションメニューが表示されます。";
+
+"Support Document" = "サポートドキュメント";
+
+"You are not supposed to edit or save this file." = "このファイルを編集したり、保存したりすることはできません。";
+"Files in this location (%@) are managed by Typora, and may be deleted automatically.<br/>Please copy content to a new file for further editing." = "(%@) にあるファイルはTyporaによって管理されているため、自動的に削除される場合があります。<br/>編集するには、コピーして新しくファイルを作成してください。";
+
+"File does not exist at path %@." = "%@ にファイルが存在しません。";
+"File does not exist at path %@, do you want to create one at that path?" = "%@ にファイルが存在しません。新しく作成しますか?";
+
+"No Results" = "結果が見つかりません。";
+"Too many matches" = "マッチング数が多すぎます。";
+"Regular Expression" = "正規表現";
