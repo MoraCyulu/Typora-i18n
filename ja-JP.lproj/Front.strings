@@ -77,7 +77,8 @@ Japanese translated by
 "Refresh Folder" = "フォルダを更新";
 "Sort" = "並び替え";
 "Group By Folder" = "フォルダをグループ分け";
-"Sort Naturally" = "自然に並び替え";
+"Sort Naturally (Ascending)" = "自然に並び替え (昇順)";
+"Sort Naturally (Descending)" = "自然に並び替え (降順)";
 "Sort by Name (Ascending)" = "名称で並び替え (昇順)";
 "Sort by Modification Date (Ascending)" = "更新日時で並び替え (昇順)";
 "Sort by Name (Descending)" = "名称で並び替え (降順)";
