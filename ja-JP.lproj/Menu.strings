@@ -295,6 +295,52 @@ Japanese translated by
 "Start Speaking" = "読み上げを開始";
 "Stop Speaking" = "読み上げを停止";
 "Check Updates" = "更新を確認";
+
+"HTML (without Styles)" = "HTML (スタイルなし)";
+
 "Highlight Current Header" = "現在のヘッダーを強調表示";
 "Expand All" = "すべて展開する";
 "Collapse All" = "すべて折り畳む";
+"Collapsible Outline" = "折り畳み可能なアウトライン";
+"Flat Outline" = "フラットアウトライン";
+"Articles (List View)" = "文書 (リスト表示)";
+"File Tree (Tree View)" = "ファイルツリー (ツリー表示)";
+"Filter" = "フィルター";
+
+"Upload Image" = "画像をアップロード";
+"Upload All Local Images" = "ローカル画像をすべてアップロード";
+"Open Image in Browser" = "ブラウザで画像を開く";
+"Copy Image Content" = "画像をコピー";
+
+"More Actions" = "その他の操作";
+"Get Info" = "情報を見る";
+
+"Export with Previous" = "これまでと同様にエクスポート";
+"Export and Overwrite with Previous" = "これまでと同様に上書きしてエクスポート";
+
+"Emoji and Symbols" = "絵文字と記号";
+
+"Insert Final New Line On Save" = "保存時、末尾に改行を挿入する";
+"Hyperlink Actions" = "ハイパーリンクの操作";
+"Copy Link Address" = "リンクをコピー";
+
+"Click" = "クリック";
+
+"Export Setting" = "設定をエクスポート";
+
+"My License" = "ライセンス";
+"Registration / Activation" = "登録 / 有効化";
+
+"Select Paragraph / Block" = "ブロックを選択する";
+
+"Delete Selected" = "選択したものを削除";
+"Move Image to" = "画像を移動";
+"Move to %@…" = "%@… へ移動";
+"Delete Image" = "画像を削除する";
+"Delete Image File" = "画像ファイルを削除する";
+"Reload All Images" = "すべての画像を再読み込みする";
+
+"Save %@ As…" = "%@ を別名で保存";
+
+"Copy All Images to" = "すべての画像をコピー";
+"Move All Images to" = "すべての画像を移動";
